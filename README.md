@@ -1,5 +1,3 @@
-![General Assembly Logo](http://i.imgur.com/ke8USTq.png)
-
 # A Tic-tac-toe data store API
 
 An API to store tic-tac-toe game state and let two players compete across the

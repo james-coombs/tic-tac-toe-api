@@ -167,5 +167,8 @@ DEPENDENCIES
   rspec (~> 3.4.0)
   rspec-rails (~> 3.4.2)
 
+RUBY VERSION
+   ruby 2.3.1p112
+
 BUNDLED WITH
-   1.11.2
+   1.13.6

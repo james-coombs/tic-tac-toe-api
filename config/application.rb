@@ -10,7 +10,7 @@ require 'action_controller/railtie'
 # you've limited to :test, :development, or :production.
 Bundler.require(*Rails.groups)
 
-module TicTacToe
+module TicTacToeApi
   # The game API
   class Application < Rails::Application
     # Settings in config/environments/* take precedence
